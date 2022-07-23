@@ -1,0 +1,99 @@
+body {
+    background-color:powderblue;
+}
+
+h1 {
+    color: #090;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    color: #090;
+}
+
+h3{
+    color:#090;
+}
+p {
+    font-size: 1.2rem;
+    margin: 10px;
+}
+.content {
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+    text-decoration:none; 
+    color:#900; 
+    font-weight:bold
+}
+a {
+    font-family:"Lucida Console", Monaco, Monospace; 
+    text-decoration:none; 
+    color: hsl(147, 50%, 47%);
+    text-align: right;
+}
+a:hover{
+    text-decoration:underline; 
+    color:red
+}
+a:active{
+    color: powderblue;
+    text-decoration: dotted;
+}
+.lowerlink{
+    font-family:"Arial Black", Gadget, sans-serif;
+    text-decoration:none; 
+    color:black; 
+    font-weight:bold
+} 
+lowerlink{
+    font-family:"Lucida Console", Monaco, monospace; 
+    text-decoration:none; 
+    color:black
+}
+.lowerlink hover{
+    text-decoration:underline; 
+    color:blue
+}
+
+img{
+    max-width: fit-content;
+    align-self: center;
+}
+/*hr{
+    width: 70px;
+    size: 49px;
+    color: #090;
+}*/
+table{
+    background: linear-gradient(to left, grey, powderblue);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;   
+}
+h4{
+    text-align: right;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #090;
+}
+marquee{
+    color: #090;
+    font-size: 1.2rem;
+    letter-spacing: 10px;
+}
+caption{
+    font-size: 60px;
+    color: #090;
+    text-align: center;
+}
+form{
+    background: linear-gradient(to left, grey, powderblue);
+    background-repeat: no-repeat;
+    background-size: 300px 200px;
+}
+td{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+li{
+    font-size: 1.2rem;
+}
